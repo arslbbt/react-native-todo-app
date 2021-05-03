@@ -5,6 +5,7 @@
 	};
 	objectVersion = 46;
 	objects = {
+
 /* Begin PBXBuildFile section */
 		00C302E51ABCBA2D00DB3ED1 /* libRCTActionSheet.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 00C302AC1ABCB8CE00DB3ED1 /* libRCTActionSheet.a */; };
 		00C302E71ABCBA2D00DB3ED1 /* libRCTGeolocation.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 00C302BA1ABCB90400DB3ED1 /* libRCTGeolocation.a */; };
@@ -385,7 +386,7 @@
 		C757B97C603F4AC8BA50B1B2 /* FontAwesome.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = FontAwesome.ttf; path = "../node_modules/react-native-vector-icons/Fonts/FontAwesome.ttf"; sourceTree = "<group>"; };
 		CB8D07776D0243EA9C47CADC /* EvilIcons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = EvilIcons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/EvilIcons.ttf"; sourceTree = "<group>"; };
 		D73EEFBB204A92FB0024D6FB /* ReactNativeNavigation.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = ReactNativeNavigation.xcodeproj; path = "../node_modules/react-native-navigation/ios/ReactNativeNavigation.xcodeproj"; sourceTree = "<group>"; };
-		D73EEFF6204A9F1A0024D6FB /* FiraCode-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "FiraCode-Regular.ttf"; path = "../../../../Downloads/FiraCode_1.204/ttf/FiraCode-Regular.ttf"; sourceTree = "<group>"; };
+		D73EEFF6204A9F1A0024D6FB /* FiraCode-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "FiraCode-Regular.ttf"; path = "../app/assets/fonts/FiraCode-Regular.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
